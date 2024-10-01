@@ -1,10 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1e90a283_002Df303_002D42a9_002D91cc_002D0476ced72045/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Tests&amp;gt;\&amp;lt;Aoc1_Tests&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Project Location="/Users/michaelkvasin/csharp/AOC/Aoc1_Tests" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;Aoc1_Tests&amp;gt;" /&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1e90a283_002Df303_002D42a9_002D91cc_002D0476ced72045/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Tests&amp;gt;\&amp;lt;Aoc1_Tests&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/michaelkvasin/csharp/AOC" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;AOC_02&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25ccc0d7_002D3e21_002D4241_002D845f_002De2aa1787729b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Tests&amp;gt;\&amp;lt;Aoc1_Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Or&gt;
-    &lt;Project Location="/Users/michaelkvasin/csharp/AOC/Aoc1_Tests" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;Aoc1_Tests&amp;gt;" /&gt;
-    &lt;Project Location="/Users/michaelkvasin/csharp/AOC/Aoc1B_tests" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;Aoc1B_tests&amp;gt;" /&gt;
-  &lt;/Or&gt;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+	</wpf:ResourceDictionary>
