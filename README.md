@@ -20,19 +20,29 @@ cd advent-of-code-2023-tdd
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+1. Clone the repository to your local machine:
 
 ```
-Give the example
+git clone https://github.com/kvasinho/advent-of-code-2023-tdd.git
+cd advent-of-code-2023-tdd
+```
+2. Restore the project dependencies:
+ 
+```
+dotnet restore
 ```
 
-And repeat
+3. Build the project:
 
 ```
-until finished
+dotnet build
 ```
+4. Run a specific day's solution:
+
+```
+dotnet run --project DayX/DayX.csproj
+```
+
 
 End with an example of getting some data out of the system or using it for a little demo
 
