@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AOC_03A/1.0.0": {
+        "dependencies": {
+          "Extensions": "1.0.0"
+        },
+        "runtime": {
+          "AOC_03A.dll": {}
+        }
+      },
+      "Extensions/1.0.0": {
+        "runtime": {
+          "Extensions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AOC_03A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Extensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

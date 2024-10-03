@@ -1,0 +1,12 @@
+/Users/michaelkvasin/csharp/AOC/Extensions/bin/Debug/net8.0/Extensions.deps.json
+/Users/michaelkvasin/csharp/AOC/Extensions/bin/Debug/net8.0/Extensions.dll
+/Users/michaelkvasin/csharp/AOC/Extensions/bin/Debug/net8.0/Extensions.pdb
+/Users/michaelkvasin/csharp/AOC/Extensions/obj/Debug/net8.0/Extensions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkvasin/csharp/AOC/Extensions/obj/Debug/net8.0/Extensions.AssemblyInfoInputs.cache
+/Users/michaelkvasin/csharp/AOC/Extensions/obj/Debug/net8.0/Extensions.AssemblyInfo.cs
+/Users/michaelkvasin/csharp/AOC/Extensions/obj/Debug/net8.0/Extensions.csproj.CoreCompileInputs.cache
+/Users/michaelkvasin/csharp/AOC/Extensions/obj/Debug/net8.0/Extensions.sourcelink.json
+/Users/michaelkvasin/csharp/AOC/Extensions/obj/Debug/net8.0/Extensions.dll
+/Users/michaelkvasin/csharp/AOC/Extensions/obj/Debug/net8.0/refint/Extensions.dll
+/Users/michaelkvasin/csharp/AOC/Extensions/obj/Debug/net8.0/Extensions.pdb
+/Users/michaelkvasin/csharp/AOC/Extensions/obj/Debug/net8.0/ref/Extensions.dll
