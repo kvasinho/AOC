@@ -1,17 +1,21 @@
-# Project Title
+# Advent of Code 2023 - TDD Version.
 
-One Paragraph of project description goes here
+With Advent of Code 2024 just around the corner, and with no points left to earn on the 2023 leaderboard, this project focuses on solving each day’s challenge using a TDD approach. 
+Since we can’t gain any points for 2023 anyway, I decided to shift my focus to make it Test driven, documented and formatted. 
+This project is mainly a learning opportunity for myself to get used to TDD rather than finding the most eficient solutions. 
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
+Make sure you have the following installed on your machine:
 
-What things you need to install the software and how to install them
+.NET SDK (version X.X.X)
+A code editor like Visual Studio or VS Code if you want to execute the tets. 
 
 ```
-Give examples
+git clone https://github.com/yourusername/advent-of-code-2023-tdd.git
+cd advent-of-code-2023-tdd
 ```
 
 ### Installing
