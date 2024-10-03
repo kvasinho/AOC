@@ -1,3 +1,10 @@
+                   _  _                       _
+                  (_)(_)                     | |
+  __ _  ___   ___  _  _  ______   __ _  _ __ | |_
+ / _` |/ __| / __|| || ||______| / _` || '__|| __|
+| (_| |\__ \| (__ | || |        | (_| || |   | |_
+ \__,_||___/ \___||_||_|         \__,_||_|    \__|
+
 # Advent of Code 2023 - TDD Version.
 
 With Advent of Code 2024 just around the corner, and with no points left to earn on the 2023 leaderboard, this project focuses on solving each day’s challenge using a TDD approach. 
