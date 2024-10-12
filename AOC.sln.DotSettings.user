@@ -3,6 +3,9 @@
   &lt;Or&gt;
     &lt;Project Location="/Users/michaelkvasin/csharp/AOC" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;AOC_02&amp;gt;" /&gt;
     &lt;Project Location="/Users/michaelkvasin/csharp/AOC/AOC_03A_Tests" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;AOC_03&amp;gt;\&amp;lt;AOC_03A_Tests&amp;gt;" /&gt;
+    &lt;Project Location="/Users/michaelkvasin/csharp/AOC/AOC_05A_Tests" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;AOC_05&amp;gt;\&amp;lt;AOC_05A_Tests&amp;gt;" /&gt;
+    &lt;Project Location="/Users/michaelkvasin/csharp/AOC/AOC_06A_Tests" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;AOC_06&amp;gt;\&amp;lt;AOC_06A_Tests&amp;gt;" /&gt;
+    &lt;Project Location="/Users/michaelkvasin/csharp/AOC/AOC_07A_Tests" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;AOC_07&amp;gt;\&amp;lt;AOC_07A_Tests&amp;gt;" /&gt;
   &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String>
 	</wpf:ResourceDictionary>
