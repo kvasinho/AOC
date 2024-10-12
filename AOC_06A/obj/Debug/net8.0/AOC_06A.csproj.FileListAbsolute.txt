@@ -1,0 +1,15 @@
+/Users/michaelkvasin/csharp/AOC/AOC_06A/bin/Debug/net8.0/AOC_06A
+/Users/michaelkvasin/csharp/AOC/AOC_06A/bin/Debug/net8.0/AOC_06A.deps.json
+/Users/michaelkvasin/csharp/AOC/AOC_06A/bin/Debug/net8.0/AOC_06A.runtimeconfig.json
+/Users/michaelkvasin/csharp/AOC/AOC_06A/bin/Debug/net8.0/AOC_06A.dll
+/Users/michaelkvasin/csharp/AOC/AOC_06A/bin/Debug/net8.0/AOC_06A.pdb
+/Users/michaelkvasin/csharp/AOC/AOC_06A/obj/Debug/net8.0/AOC_06A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkvasin/csharp/AOC/AOC_06A/obj/Debug/net8.0/AOC_06A.AssemblyInfoInputs.cache
+/Users/michaelkvasin/csharp/AOC/AOC_06A/obj/Debug/net8.0/AOC_06A.AssemblyInfo.cs
+/Users/michaelkvasin/csharp/AOC/AOC_06A/obj/Debug/net8.0/AOC_06A.csproj.CoreCompileInputs.cache
+/Users/michaelkvasin/csharp/AOC/AOC_06A/obj/Debug/net8.0/AOC_06A.sourcelink.json
+/Users/michaelkvasin/csharp/AOC/AOC_06A/obj/Debug/net8.0/AOC_06A.dll
+/Users/michaelkvasin/csharp/AOC/AOC_06A/obj/Debug/net8.0/refint/AOC_06A.dll
+/Users/michaelkvasin/csharp/AOC/AOC_06A/obj/Debug/net8.0/AOC_06A.pdb
+/Users/michaelkvasin/csharp/AOC/AOC_06A/obj/Debug/net8.0/AOC_06A.genruntimeconfig.cache
+/Users/michaelkvasin/csharp/AOC/AOC_06A/obj/Debug/net8.0/ref/AOC_06A.dll
